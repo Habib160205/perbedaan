@@ -63,12 +63,12 @@ Install paket dengan:
 ```bash
  sudo dpkg -i ipscan_3.9.1_amd64.deb
 ```
-
-![unduh angry ip 2](https://github.com/user-attachments/assets/da614e76-4239-4783-936b-b6230afef900)
-
 Penggunaan
 Jalankan Angry IP Scanner
 Masuk pada menu setting
+
+![unduh angry ip 2](https://github.com/user-attachments/assets/da614e76-4239-4783-936b-b6230afef900)
+
 ![unduh angry 3](https://github.com/user-attachments/assets/26ccc841-30be-41ac-8d91-fa6166b51b89)
 
 ![undu angry 4](https://github.com/user-attachments/assets/fe614085-e4d3-466c-96f6-c8b93980ca9c)
