@@ -63,6 +63,9 @@ Hasil scan dapat diekspor dalam format CSV atau TXT.
 Kesimpulan
 
 Nmap: Tools yang sangat kuat dan fleksibel untuk scanning jaringan mendalam, ideal bagi profesional keamanan jaringan yang memerlukan deteksi mendalam terhadap sistem dan layanan.
+
 Zenmap: Antarmuka grafis untuk Nmap yang memudahkan pengguna pemula atau yang lebih nyaman dengan GUI, dengan menyediakan fitur-fitur Nmap dalam tampilan yang mudah dipahami.
+
 Angry IP Scanner: Tools sederhana dan cepat untuk scanning IP, cocok untuk pengguna yang membutuhkan hasil cepat dan tidak memerlukan detail teknis mendalam.
+
 Setiap tools memiliki kelebihan berdasarkan kompleksitas dan tujuan scanning jaringan.
