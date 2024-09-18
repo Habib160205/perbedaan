@@ -1,8 +1,7 @@
-# perbedaan
-Network Scanning Tools on Kali Linux
+#Network Scanning Tools on Kali Linux
 This guide provides instructions on how to install and use Nmap, Zenmap, and Angry IP Scanner on Kali Linux.
 
-1. Nmap
+#1. Nmap
    
 Instalasi
 Biasanya, Nmap sudah terpasang di Kali Linux. Cek dengan:
@@ -20,7 +19,7 @@ Dilihat hasil scan menggunakan nmap pada gambar diatas, kita dapat melihat infor
 
 Ip dan port yang digunakan pada website tersebut
 
-2. Zenmap
+#2. Zenmap
    
 Instalasi
 Zenmap adalah antarmuka grafis untuk Nmap. Instal dengan:
@@ -35,7 +34,7 @@ Pilih profil scan (Quick Scan, Intense Scan, dll.).
 Klik "Scan" untuk memulai.
 Zenmap memudahkan penggunaan Nmap melalui GUI.
 
-3. Angry IP Scanner
+#3. Angry IP Scanner
    
 Instalasi
 Unduh paket .deb dari Angry IP Scanner GitHub Releases
@@ -60,7 +59,7 @@ Masuk pada menu setting
 
 Hasil scan dapat diekspor dalam format CSV atau TXT.
 
-Kesimpulan
+#Kesimpulan
 
 Nmap: Tools yang sangat kuat dan fleksibel untuk scanning jaringan mendalam, ideal bagi profesional keamanan jaringan yang memerlukan deteksi mendalam terhadap sistem dan layanan.
 
